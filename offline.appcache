@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1627739176
+#1627746047
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -56,8 +56,10 @@ images/ctrl-sheet0.png
 images/interact-sheet0.png
 images/switchcharacter-sheet0.png
 images/shift-sheet0.png
-media/music_zapsplat_game_music_mystery_underscore_airy_dark_tension_006.m4a
-media/music_zapsplat_game_music_mystery_underscore_airy_dark_tension_006.ogg
+media/suspense%20loop.m4a
+media/suspense%20loop.ogg
+media/music-dark.m4a
+media/music-dark.ogg
 icon-16.png
 icon-32.png
 icon-114.png
